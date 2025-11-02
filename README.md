@@ -100,7 +100,8 @@ Figure 7: Using a breadboard to connect components.
 **3.2.	Learning Reflection**
 
 Write a brief note on the results observed while changing the resistor’s resistance in the simulation. What about direction of LED connected?
-
+We observed that, When the resistance is kept at 0 ohms the led light will be damaged, when resistor resistance is kept at 1 ohms the led light will be sparked brightly.
+when we can increases the resistance the led light changes into dimmer. So, we can observed when resistances increases current flowing to the circuit decreases. 
 
 ```
 ### 4.	Simulation 4: Simulating Voltage Divider Circuit
